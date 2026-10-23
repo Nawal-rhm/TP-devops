@@ -1,5 +1,5 @@
 def saluer():
-    print("Bonjour, bienvenue dans mon projet DevOps !")
+    print("Bienvenue dans mon application DevOps !")
 
 if __name__ == "__main__":
     saluer()
