@@ -1,5 +1,5 @@
 def saluer():
-    print("Bienvenue dans mon application DevOps !")
+    print("Bonjour depuis la branche test-conflit !")
 
 def login():
     print("Connexion de l'utilisateur...")
